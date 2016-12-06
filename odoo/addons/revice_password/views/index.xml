@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <template id="revice_password">
+            &lt;!DOCTYPE html&gt;
+            <html>
+                <head>
+                    <meta charset="UTF-8">
+                        <title>修改密码</title>
+                        <script type="text/javascript" scr="/web/static/lib/jquery/jquery.js"/>
+                        <script></script>
+                    </meta>
+                    <script type="text/javascript" src="/web/static/lib/jquery/juery.js"/>
+                    <script>
+                        <![CDATA[
+                        $(document).ready(function(){
+                            $()
+                        });
+                        ]]>
+                    </script>
+                </head>
+                <body>
+                    <form action="/revice_password" method="POST">
+                        <div style="text-align:center">
+                        <p>
+                            <input type="text"  name="admin" value="" style="visibility:hidden"/>
+                        </p>
+                        <p>
+                            旧密码<input type="text"  name="old_password1" value=""/>
+                        </p>
+                        <p>
+                            新密码<input type="text"  name="new_password1" value=""/>
+                        </p>
+                        <p>
+                            第二遍新密码<input type="text"  name="new_password2" value=""/>
+                        </p>
+                        <p>
+                            服务器ip<input type="text"  name="server_ip" value=""/>
+                        </p>
+                            <p t-if="msg">
+                                <t t-esc="msg"/>
+                            </p>
+                        <input type="submit" value="提交"/>
+                        </div>
+                    </form>
+                </body>
+            </html>
+        </template>
+    </data>
+</openerp>

@@ -1,0 +1,22 @@
+#!/usr/local/bin/python
+# coding:utf-8
+import subprocess
+
+
+def start_odoo_server():
+    import os
+    base_url = os.getcwd()
+    print base_url
+    config_url = base_url+'/odoo/addons/point_of_sale/tools/posbox/configuration/odoo.conf'
+    start_server_cmds = 'python odoo.py --config=' + config_url
+    # 更改当前工作目录
+    os.chdir(base_url+'/odoo')
+    print os.getcwd()
+    with open('server_log.log', 'wt') as f1:
+        with open('server_error.log', 'wt') as f2:
+            b = subprocess.call([start_server_cmds],
+                                shell=True,
+                                stdout=f1,
+                                stderr=f2)
+if __name__ == '__main__':
+    start_odoo_server()

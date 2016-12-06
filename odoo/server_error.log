@@ -1,0 +1,24 @@
+Exception in thread openerp.service.httpd:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/hyf/code/odoo_raspberry_pi/Raspberry_Pi/odoo/openerp/service/server.py", line 293, in http_thread
+    self.httpd = ThreadedWSGIServerReloadable(self.interface, self.port, app)
+  File "/home/hyf/code/odoo_raspberry_pi/Raspberry_Pi/odoo/openerp/service/server.py", line 99, in __init__
+    handler=RequestHandler)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 410, in __init__
+    HTTPServer.__init__(self, (host, int(port)), handler)
+  File "/usr/lib/python2.7/SocketServer.py", line 417, in __init__
+    self.server_bind()
+  File "/home/hyf/code/odoo_raspberry_pi/Raspberry_Pi/odoo/openerp/service/server.py", line 109, in server_bind
+    super(ThreadedWSGIServerReloadable, self).server_bind()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 431, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 98] 地址已在使用
+

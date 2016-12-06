@@ -1,0 +1,725 @@
+2016-12-06 03:30:57,579 20025 INFO ? openerp: OpenERP version 8.0
+2016-12-06 03:30:57,579 20025 INFO ? openerp: addons paths: ['/home/hyf/.local/share/Odoo/addons/8.0', u'/home/hyf/code/odoo_raspberry_pi/Raspberry_Pi/odoo/addons', '/home/hyf/code/odoo_raspberry_pi/Raspberry_Pi/odoo/openerp/addons']
+2016-12-06 03:30:57,579 20025 INFO ? openerp: database hostname: 127.0.0.1
+2016-12-06 03:30:57,579 20025 INFO ? openerp: database port: 5432
+2016-12-06 03:30:57,579 20025 INFO ? openerp: database user: hyf
+2016-12-06 03:30:57,829 20025 INFO ? openerp.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+启动状态机
+SO
+2016-12-06 03:30:57,832 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 03:31:02,837 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:07,843 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:12,847 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:17,851 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:22,853 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:27,857 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:32,863 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:37,868 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:42,873 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:47,879 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:52,884 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:31:57,889 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:02,893 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:07,899 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:12,904 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:17,906 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:22,907 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:27,913 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:32,916 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:37,918 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:42,920 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:47,924 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:52,926 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:32:57,928 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:02,930 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:07,935 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:12,937 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:17,940 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:22,946 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:27,951 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:32,953 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:37,959 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:42,962 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:47,965 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:52,970 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:33:57,975 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:02,980 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:07,982 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:12,985 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:17,991 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:22,992 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:27,997 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:33,002 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:38,007 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:43,009 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:48,015 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:53,020 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:34:58,025 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:03,027 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:08,028 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:13,032 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:18,037 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 03:35:23,039 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:28,042 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:33,048 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:38,048 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:43,051 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:48,053 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:53,057 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:35:58,063 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:03,067 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:08,069 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:13,074 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:18,075 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:23,077 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:28,081 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:33,086 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:38,089 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:43,093 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:48,096 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:53,099 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:36:58,102 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:03,105 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:08,110 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:13,111 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:18,111 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:23,117 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:28,122 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:33,125 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:38,130 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:43,133 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:48,135 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:53,139 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:37:58,144 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:38:03,146 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 03:38:08,151 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:08:59,306 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:04,309 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:09,314 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:14,314 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:19,320 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:24,325 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:29,327 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:34,332 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:39,338 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:44,339 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:49,343 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:54,349 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:09:59,349 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:04,354 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:09,358 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:14,363 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:19,363 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:24,367 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:29,368 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:34,373 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:39,378 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:44,381 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:49,386 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:54,391 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:10:59,396 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:04,398 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:09,399 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:14,404 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:19,404 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:24,405 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:29,408 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:34,412 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:39,414 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:44,416 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:49,421 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:54,425 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:11:59,428 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:04,433 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:09,434 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:14,436 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:19,441 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:24,444 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 12:12:29,448 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:34,450 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:39,455 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:44,461 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:49,464 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:54,469 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:12:59,472 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:04,475 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:09,478 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:14,481 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:19,486 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:24,491 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:29,495 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:34,499 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:39,500 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:44,505 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:49,510 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:54,515 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:13:59,519 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:04,525 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:09,530 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:14,532 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:19,537 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:24,540 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:29,544 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:34,546 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:39,551 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:44,557 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:49,562 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:54,567 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:14:59,570 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:04,575 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:09,580 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:14,582 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:19,583 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:24,589 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:29,592 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:34,597 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:39,599 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:44,605 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:49,606 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:54,607 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:15:59,608 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:04,613 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:09,616 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:14,617 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:19,622 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:24,627 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:29,627 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:34,632 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:39,636 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:44,641 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:49,643 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 12:16:54,645 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:16:59,649 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:04,653 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:09,658 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:14,663 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:19,665 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:24,670 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:29,675 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:34,678 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:39,681 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:44,684 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:49,688 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:54,691 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:17:59,697 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:04,698 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:09,703 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:14,707 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:19,712 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:24,715 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:29,721 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:34,725 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:39,726 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:44,727 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:49,729 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:54,729 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:18:59,731 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:04,734 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:09,735 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:14,740 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:19,742 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:24,748 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:29,751 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:34,756 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:39,758 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:44,762 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:49,765 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:54,770 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:19:59,775 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:04,779 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:09,783 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:14,789 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:19,793 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:24,796 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:29,802 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:34,803 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:39,808 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:44,813 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:49,816 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:54,821 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:20:59,825 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:04,829 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:09,832 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:14,835 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 12:21:19,839 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:24,842 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:29,845 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:34,850 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:39,855 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:44,861 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:49,864 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:54,867 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:21:59,869 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:04,874 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:09,879 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:14,882 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:19,887 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:24,889 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:29,894 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:34,896 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:39,898 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:44,904 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:49,908 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:54,910 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:22:59,911 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:04,915 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:09,917 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:14,921 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:19,927 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:24,931 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:29,936 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:34,937 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:39,943 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:44,945 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:49,949 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:54,954 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:23:59,957 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:04,963 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:09,967 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:14,968 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:19,969 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:24,972 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:29,973 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:34,977 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:39,983 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:44,988 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:49,989 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:54,991 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:24:59,997 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:05,002 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:10,005 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:15,009 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:20,012 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:25,017 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:30,022 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:35,027 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:40,032 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 12:25:45,034 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:50,037 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:25:55,042 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:00,043 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:05,048 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:10,774 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:15,778 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:20,780 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:25,785 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:30,787 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:35,792 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:40,797 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:45,798 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:50,803 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:26:55,803 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:00,808 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:05,812 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:10,813 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:15,814 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:20,817 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:25,823 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:30,825 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:35,831 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:40,837 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:45,838 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:50,841 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:27:55,842 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:28:00,848 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:28:05,849 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:28:10,854 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+SO
+2016-12-06 12:30:09,418 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:14,419 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:19,425 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:24,427 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:29,431 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:34,435 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:39,439 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:44,443 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:49,448 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:54,449 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:59,450 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:04,455 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:09,459 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:15,864 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:20,864 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:25,867 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:30,872 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:35,875 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:40,876 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:45,882 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:50,884 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:55,887 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:32:00,892 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:32:05,896 20025 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+2016-12-06 12:30:31,344 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:36,349 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:41,353 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:46,358 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:51,362 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:30:56,367 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:01,371 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:06,376 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:11,378 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:17,780 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:22,784 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:27,789 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:32,790 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:37,791 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:42,795 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:47,800 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:52,805 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:31:57,805 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:32:02,807 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
+SO
+2016-12-06 12:32:07,812 19961 INFO ? openerp.addons.hw_scanner.controllers.main: Disconnected Barcode Scanner: Barcode Scanner Not Found
